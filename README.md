@@ -1,4 +1,4 @@
-# hw9-
+# hw9
 Сделано в Notepad++
 1. Вот, как это выглядило изначально
 <br> ![](https://github.com/maromanova/hw9-/blob/master/0.PNG)
